@@ -4,9 +4,9 @@ A lightweight, self-contained, single-file CGI script designed for OpenWrt to mo
 
 ![Local Device Controller Dashboard](images/dashboard1.png)
 
-![Local Device Controller Dashboard 2](images/dashboard1.png)
+![Local Device Controller Dashboard 2](images/dashboard2.png)
 
-![Local Device Controller Dashboard 3](images/dashboard1.png)
+![Local Device Controller Dashboard 3](images/dashboard3.png)
 
 ## Features
 
