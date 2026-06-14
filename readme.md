@@ -23,6 +23,12 @@ A lightweight, self-contained, single-file CGI script designed for OpenWrt to mo
 
 ## Prerequisites & Dependencies
 
+You need to access its ssh at first like:
+
+```
+ssh root@192.168.0.1
+```
+
 To use all features of the manager, ensure the following packages are installed on your router:
 
 ```bash
